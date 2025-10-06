@@ -1,4 +1,5 @@
 # Aprendendo git
+
 Repo para o mini-curso de git ministrado no dia 06/10/2025 na Semana da Tecnologia da Fatec Sorocaba.
 
 Instrutores: [Amanda Vilela](https://github.com/amandavilela) & [Felipe Bernardes](https://github.com/felipebernardes)
@@ -82,3 +83,11 @@ O GitHub automaticamente encontrará as diferenças entre o seu repositório e o
 - [Ajuda GitHub](https://help.github.com/)
 
 - Aprendendo a escrever [documentos markdown](www.markdowntutorial.com/)
+
+
+## Comandos
+- git clone:
+- git status: 
+- git add:
+- git commit -m "este commit...":
+- git log: 
